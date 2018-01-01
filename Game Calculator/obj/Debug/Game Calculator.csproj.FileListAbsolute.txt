@@ -8,3 +8,13 @@ c:\users\marco\documents\visual studio 2017\Projects\Game Calculator\Game Calcul
 c:\users\marco\documents\visual studio 2017\Projects\Game Calculator\Game Calculator\obj\Debug\Game Calculator.csproj.GenerateResource.Cache
 c:\users\marco\documents\visual studio 2017\Projects\Game Calculator\Game Calculator\obj\Debug\Game Calculator.exe
 c:\users\marco\documents\visual studio 2017\Projects\Game Calculator\Game Calculator\obj\Debug\Game Calculator.pdb
+H:\GIT\Game-Calculator\Game Calculator\bin\Debug\Game Calculator.exe.config
+H:\GIT\Game-Calculator\Game Calculator\bin\Debug\Game Calculator.exe
+H:\GIT\Game-Calculator\Game Calculator\bin\Debug\Game Calculator.pdb
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game Calculator.csprojResolveAssemblyReference.cache
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game_Calculator.CalculatorForm.resources
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game_Calculator.Form1.resources
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game_Calculator.Properties.Resources.resources
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game Calculator.csproj.GenerateResource.Cache
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game Calculator.exe
+H:\GIT\Game-Calculator\Game Calculator\obj\Debug\Game Calculator.pdb
